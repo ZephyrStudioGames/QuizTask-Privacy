@@ -1,0 +1,272 @@
+# Privacy Policy for QuizTask
+
+**Last Updated: October 29, 2026**
+
+QuizTask (“QuizTask,” “we,” “us,” or “our”) respects your privacy. This Privacy Policy explains what information may be collected, used, stored, and processed when you use the QuizTask mobile application (“App”).
+
+By using QuizTask, you acknowledge the practices described in this Privacy Policy.
+
+## 1. About QuizTask
+
+QuizTask is a quiz and rewards application where users can create an account, participate in quizzes, track their progress, earn in-app coins or rewards, and, where available, submit withdrawal requests using supported payment methods.
+
+QuizTask uses Firebase services to provide account authentication, application data storage, quiz functionality, rewards, and related features.
+
+## 2. Information We Collect
+
+### Account Information
+
+When you create or use a QuizTask account, we may process information such as:
+
+- Full name
+- Username
+- Email address
+- Firebase User ID (UID)
+- Account creation information
+- Account status
+- Authentication information necessary to sign you in
+
+Your password is handled by Firebase Authentication. QuizTask does not intentionally store your plaintext password in its Firestore database.
+
+### Quiz and Activity Information
+
+When you use quizzes and other learning features, we may store information such as:
+
+- Quizzes attempted
+- Completed quizzes
+- Quiz answers and results
+- Correct and incorrect answer statistics
+- Quiz scores
+- Accuracy
+- Completion time or related quiz activity
+- Earned rewards
+- Daily activity and streak information
+- Achievement or progress information
+
+This information is used to provide quiz results, prevent duplicate rewards where applicable, display progress, and operate QuizTask features.
+
+## 3. Coins, Rewards and Wallet Information
+
+QuizTask may provide virtual coins for eligible activities.
+
+We may store information including:
+
+- Current coin balance
+- Total coins earned
+- Reward history
+- Transaction history
+- Daily rewards
+- Quiz rewards
+- Withdrawal-related coin deductions or refunds
+- Pending withdrawal amounts
+
+QuizTask may display a conversion between virtual coins and PKR according to the current rules of the App.
+
+The availability, value, requirements, limits, or eligibility of rewards may be changed where necessary for the operation of the service.
+
+## 4. Withdrawal and Payment Information
+
+Where the withdrawal feature is available, QuizTask may allow users to submit manual withdrawal requests through supported payment methods such as **JazzCash or Easypaisa**.
+
+When you submit a withdrawal request, we may collect and process:
+
+- Payment method
+- Account holder name
+- Mobile number or payment account number
+- Number of coins requested for withdrawal
+- Corresponding PKR amount
+- Withdrawal request ID
+- Withdrawal status
+- Date and time of the request
+- Rejection reason, if applicable
+
+This information is required to review and process your withdrawal request.
+
+Withdrawal requests may be manually reviewed and processed by the QuizTask administrator.
+
+**Do not provide payment passwords, PINs, OTPs, security codes, or other authentication credentials to QuizTask. QuizTask does not require such information to process a normal withdrawal request.**
+
+## 5. Firebase Services
+
+QuizTask uses services provided by Google Firebase, including services such as:
+
+### Firebase Authentication
+
+Firebase Authentication is used to create and authenticate user accounts.
+
+Authentication information may be processed by Google in accordance with Google's applicable privacy practices.
+
+### Cloud Firestore
+
+Cloud Firestore is used to store application data required for QuizTask features, which may include:
+
+- User profiles
+- Quiz information
+- Quiz attempts
+- Results
+- Coin balances
+- Reward and transaction records
+- Withdrawal requests
+- Application settings
+- Other data required to operate the App
+
+We use Firebase security mechanisms and application access controls to restrict access to stored information.
+
+## 6. How We Use Information
+
+Information collected through QuizTask may be used to:
+
+- Create and manage user accounts
+- Authenticate users
+- Provide quizzes
+- Calculate and display quiz results
+- Track completed quizzes
+- Prevent duplicate quiz completion or duplicate rewards where applicable
+- Maintain coin balances
+- Provide daily rewards and progress features
+- Maintain transaction history
+- Process withdrawal requests
+- Display withdrawal status
+- Maintain account security
+- Detect or prevent misuse, manipulation, or fraudulent activity
+- Suspend or restrict accounts that violate applicable rules
+- Maintain and improve the App
+- Troubleshoot technical problems
+- Provide important application notices
+
+We do not use your information for purposes unrelated to operating QuizTask except where required by law or with appropriate permission.
+
+## 7. Notifications
+
+QuizTask may provide notifications relating to application activity, including notifications about:
+
+- New quizzes
+- Rewards
+- Withdrawal status
+- Account activity
+- Important application announcements
+
+If device notifications are implemented and permission is required by your device, you may be asked for notification permission.
+
+You can generally manage application notification permissions through your device settings.
+
+## 8. Account Status and Abuse Prevention
+
+QuizTask accounts may have statuses such as active, suspended, or banned.
+
+We may restrict or suspend access when necessary to:
+
+- Prevent fraud or reward manipulation
+- Prevent unauthorized activity
+- Protect QuizTask or its users
+- Enforce applicable application rules
+- Address security concerns
+
+Attempts to manipulate coin balances, quiz rewards, withdrawals, or other application systems may result in account restrictions.
+
+## 9. Data Sharing
+
+We do not sell users' personal information.
+
+Information may be shared or processed only where reasonably necessary, including:
+
+- With service providers used to operate QuizTask, such as Google Firebase
+- To process user-requested withdrawals
+- To protect against fraud, abuse, or security threats
+- When required to comply with applicable laws, legal processes, or lawful government requests
+- In connection with protecting our legal rights or the safety of users
+
+Third-party services process information according to their own applicable privacy policies and terms.
+
+## 10. Advertising
+
+If QuizTask displays advertisements now or in the future, third-party advertising providers may process certain information as described by their own privacy policies and according to the permissions and configuration used by the App.
+
+Where legally required, appropriate disclosures or consent mechanisms will be provided.
+
+If advertising SDKs are added or materially changed, this Privacy Policy may be updated accordingly.
+
+## 11. Data Security
+
+We take reasonable technical and organizational measures intended to protect information associated with QuizTask.
+
+These measures may include:
+
+- Firebase Authentication
+- Firestore security rules
+- Authenticated access
+- User-specific access controls
+- Administrative access restrictions
+
+However, no internet-connected system or electronic storage method can guarantee absolute security.
+
+Users are responsible for protecting their account credentials and should not share passwords, OTPs, PINs, or other sensitive authentication information with others.
+
+## 12. Data Retention
+
+We may retain account and application information for as long as reasonably necessary to:
+
+- Provide QuizTask services
+- Maintain account and transaction records
+- Process or verify withdrawal requests
+- Prevent fraud and abuse
+- Resolve disputes
+- Meet applicable legal or operational requirements
+
+Certain transaction, withdrawal, security, or fraud-prevention records may need to be retained for an appropriate period even after an account is no longer actively used.
+
+## 13. Account and Data Deletion
+
+Users may request deletion of their QuizTask account and associated personal information.
+
+Where an in-app account deletion feature is available, users may use that feature to initiate deletion.
+
+Users may also contact us using the contact information provided below to request account or personal-data deletion.
+
+Some information may be retained where reasonably necessary for security, fraud prevention, unresolved transactions, legal obligations, or legitimate record-keeping requirements.
+
+## 14. Children's Privacy
+
+QuizTask is not intended to knowingly collect personal information from children in violation of applicable laws.
+
+If a parent or legal guardian believes that a child has provided personal information in circumstances where parental consent or another legal basis is required, they may contact us so that we can review the situation and take appropriate action.
+
+Users should comply with any minimum-age requirements displayed by QuizTask, Google Play, or applicable law.
+
+## 15. Third-Party Services
+
+QuizTask may rely on third-party services necessary for its operation.
+
+These services may include Google Firebase and other services that may be introduced as QuizTask develops.
+
+Third-party services have their own privacy policies and data-processing practices. We encourage users to review the privacy information provided by relevant third-party service providers.
+
+## 16. Internet Connection
+
+Some QuizTask functionality requires an internet connection, including features that communicate with Firebase or retrieve current application data.
+
+The user's mobile carrier or internet provider may charge for data usage according to the user's own service plan.
+
+## 17. Changes to QuizTask
+
+Features of QuizTask may change over time. We may add, remove, improve, or modify quizzes, rewards, withdrawal methods, account features, or other functionality.
+
+If these changes materially affect how personal information is handled, this Privacy Policy may also be updated.
+
+## 18. Changes to This Privacy Policy
+
+We may update this Privacy Policy periodically.
+
+When the Privacy Policy is updated, the “Last Updated” date at the top of this page will be changed.
+
+Users are encouraged to review this Privacy Policy periodically to stay informed about QuizTask's privacy practices.
+
+## 19. Contact Us
+
+If you have questions about this Privacy Policy, your personal information, account deletion, or QuizTask's privacy practices, contact:
+
+**App:** QuizTask  
+**Developer:** HexaCrew  
+**Support Email:** [hexacrewdev@gmail.com]
+
+© 2026 HexaCrew. All rights reserved.
